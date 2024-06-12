@@ -12,29 +12,29 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
-OWNER_USERNAME = getenv("OWNER_USERNAME", "JARVIS_V2")
-BOT_USERNAME = getenv("BOT_USERNAME", "Annie_Music_Robot")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
-ASSUSERNAME = getenv("ASSUSERNAME", "musicXannie")
-EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "FAKE_ARYAN")
+BOT_USERNAME = getenv("BOT_USERNAME", "siri_ro_bot")
+BOT_NAME = getenv("BOT_NAME", "⏤͟͟͞ ♡︎ ˹ᴘʀᴏ sɪʀɪ ˼ 🫧🕊⃝")
+ASSUSERNAME = getenv("ASSUSERNAME", "siri_ro_bot")
+EVALOP = list(map(int, getenv("EVALOP", "5948367761").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1002014167331))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002133369721))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 DEEP_API = getenv("DEEP_API")
-OWNER_ID = int(getenv("OWNER_ID", 7044783841))
+OWNER_ID = int(getenv("OWNER_ID", 5948367761))
 
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/doraemon890/ANNIE-X-MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/golujha9936/SiriPro")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/JARVIS_V_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Dora_Hub")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_Aryan_Owner/3")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Js4pbHpeiWBhZjI9")
 
 # Server limits and configurations - These can be set based on your server configurations
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
@@ -60,8 +60,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 
 # Bot introduction messages - These can be customized as per your preference
 AYU = [
-    "💞", "🦋", "🔍", "🧪", "🦋", "⚡️", "🔥", "🦋", "🎩", "🌈", "🍷", "🥂", "🦋", "🥃", "🥤", "🕊️",
-    "🦋", "🦋", "🕊️", "🦋", "🕊️", "🦋", "🦋", "🦋", "🪄", "💌", "🦋", "🦋", "🧨"
+    "💞", "🦋", "🔍", "🍷", "🥂","ᴘʟꜱ ᴡᴀɪᴛ..", "🥀 𝐏ɤσƈɛssɩŋʛ... 🦋", "ωαιт α ѕє¢ вαву...."
 ]
 
 AYUV = [
