@@ -60,11 +60,11 @@ async def pinterest(_, message: Message):
     media_group = []
     count = 0
 
-    msg = await message.reply("Annie sᴄʀᴀᴘɪɴɢ ɪᴍᴀɢᴇs...")
+    msg = await message.reply("sᴄʀᴀᴘɪɴɢ ɪᴍᴀɢᴇs...")
     for result in images.get("results", [])[:6]:
         media_group.append(InputMediaPhoto(media=result["urls"]["regular"]))
         count += 1
-        await msg.edit(f"=> Annie ᴏᴡᴏ sᴄʀᴀᴘᴇᴅ ɪᴍᴀɢᴇs {count}")
+        await msg.edit(f"=> ᴏᴡᴏ sᴄʀᴀᴘᴇᴅ ɪᴍᴀɢᴇs {count}")
 
     try:
         await app.send_media_group(
