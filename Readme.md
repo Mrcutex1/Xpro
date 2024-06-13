@@ -45,6 +45,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     </details>
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/FAKE_ARYAN"><img title="Telegram" src="https://img.shields.io/badge/JARVIS-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/FAKE_ARYAN"><img title="Telegram" src="https://img.shields.io/badge/Evo^xᴅ 𓆩🇮🇳𓆪-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 <a href="https://heroku.com/deploy?template=https://github.com/golujha9936/SiriPro"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
