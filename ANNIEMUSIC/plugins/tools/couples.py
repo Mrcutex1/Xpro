@@ -11,6 +11,16 @@ from pyrogram.enums import *
 from ANNIEMUSIC import app as app
 from ANNIEMUSIC.mongo.couples_db import _get_image, get_couple
 
+POLICE = [
+    [
+        InlineKeyboardButton(
+            text="𝐀ᴄᴇ 𝐍ᴇᴛᴡᴏʀᴋ [🇮🇳]",
+            url=f"https://t.me/Ace_networkop",
+        ),
+    ],
+]
+
+
 def dt():
     now = datetime.now()
     dt_string = now.strftime("%d/%m/%Y %H:%M")
@@ -35,7 +45,7 @@ today = str(dt()[0])
 async def ctest(_, message):
     cid = message.chat.id
     if message.chat.type == ChatType.PRIVATE:
-        return await message.reply_text("This command only works in groups.")
+        return await message.reply_text("ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ᴡᴏʀᴋs ɪɴ ɢʀᴏᴜᴘs.")
     try:
      #  is_selected = await get_couple(cid, today)
      #  if not is_selected:
@@ -103,7 +113,8 @@ async def ctest(_, message):
 𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!**
 """
     
-         await message.reply_photo(f"test_{cid}.png", caption=TXT)
+         await message.reply_photo(f"test_{cid}.png", caption=TXT, reply_markup=InlineKeyboardMarkup(POLICE),
+    )
          await msg.delete()
          a = upload_file(f"test_{cid}.png")
          for x in a:
