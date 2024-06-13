@@ -14,7 +14,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/doraemon890/ANNIE-X-MUSIC/blob/Master/sample.env)
+- Get your [Necessary Variables](https://github.com/golujha9936/SiriPro/blob/Master/sample.env)
 - Upgrade and Update by :
  `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -26,7 +26,7 @@
 - Install Node js by :
  `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
- `git clone https://github.com/doraemon890/ANNIE-X-MUSIC && cd ANNIE-X-MUSIC`
+ `git clone https://github.com/golujha9936/SiriPro && cd SiriPro`
 - Install requirements by :
  `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
