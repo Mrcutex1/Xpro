@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/f29bb60ccda9309411a14.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+─‌⃛┼𝆺𝅥⃝ᶦϻ‌ ᵛ‌ᵎᵖ ≛⃝ 𝐀𝐫𝐲𝐚𝐧❣️𓆩𝐎𝐰𝐧𝐞𝐫𓆪ꪾ🥀⃝⃪•๋๋๋๋๋๋๋๋๋๋๋๋๋•๋+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/f29bb60ccda9309411a14.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+─‌⃛┼𝆺𝅥⃝ᶦϻ‌ ᵛ‌ᵎᵖ ≛⃝ 𝐀𝐫𝐲𝐚𝐧❣️+𝐎𝐰𝐧𝐞𝐫𓆪ꪾ🥀⃝⃪•๋๋๋๋๋๋๋๋๋๋๋๋๋•๋+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
