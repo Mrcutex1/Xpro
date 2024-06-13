@@ -36,7 +36,7 @@ async def init():
     await app.start()
     for all_module in ALL_MODULES:
         importlib.import_module("ANNIEMUSIC.plugins" + all_module)
-    LOGGER("ANNIEMUSIC.plugins").info("ᴀɴɴɪᴇ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...")
+    LOGGER("ANNIEMUSIC.plugins").info("Siri ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...")
     await userbot.start()
     await JARVIS.start()
     try:
@@ -50,7 +50,7 @@ async def init():
         pass
     await JARVIS.decorators()
     LOGGER("ANNIEMUSIC").info(
-        "\x41\x6e\x6e\x69\x65\x20\x4d\x75\x73\x69\x63\x20\x52\x6f\x62\x6f\x74\x20\x53\x74\x61\x72\x74\x65\x64\x20\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6c\x6c\x79\x2e\x2e\x2e"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗘𝗩𝗢 𝗫 𝗣𝗥𝗢☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
