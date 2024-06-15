@@ -12,7 +12,7 @@ emojis
 ffmpeg-python
 Faker
 future
-git+https://github.com/AsmSafone/SafoneAPI
+#git+https://github.com/AsmSafone/SafoneAPI
 gitpython
 geopy
 gpytranslate
