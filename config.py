@@ -12,29 +12,29 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Specify where to get the following credentials
-OWNER_USERNAME = getenv("OWNER_USERNAME", "FAKE_ARYAN")
-BOT_USERNAME = getenv("BOT_USERNAME", "siri_ro_bot")
-BOT_NAME = getenv("BOT_NAME", "⏤͟͟͞ ♡︎ ˹ᴘʀᴏ sɪʀɪ ˼ 🫧🕊⃝")
-ASSUSERNAME = getenv("ASSUSERNAME", "siri_ro_bot")
-EVALOP = list(map(int, getenv("EVALOP", "5948367761").split()))
+OWNER_USERNAME = getenv("OWNER_USERNAME", "MR_CUTE_X")
+BOT_USERNAME = getenv("BOT_USERNAME", "JarvisproAibot")
+BOT_NAME = getenv("BOT_NAME", "𝐉ᴀʀᴠɪs 𝐏ʀᴏ 𝐀ɪ")
+ASSUSERNAME = getenv("ASSUSERNAME", "Nairobiasstants")
+EVALOP = list(map(int, getenv("EVALOP", "5111294407").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1002133369721))
+LOGGER_ID = int(getenv("LOGGER_ID", -1001899756930)))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 DEEP_API = getenv("DEEP_API")
-OWNER_ID = int(getenv("OWNER_ID", 5948367761))
+OWNER_ID = int(getenv("OWNER_ID", 5111294407))
 
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/golujha9936/SiriPro")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Mrcutex1/Anie")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support and contact information - Provide your own support channels
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_Aryan_Owner/3")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Js4pbHpeiWBhZjI9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Ace_networkop")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+JoSPjg4d91QzMWNl")
 
 # Server limits and configurations - These can be set based on your server configurations
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
